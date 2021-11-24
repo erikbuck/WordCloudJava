@@ -8,9 +8,6 @@ undefined
 target
 dist
 bin/
-.settings
-.classpath
-.project
 test/resources/projects/**/.vscode
 test/resources/projects/maven/salut/testGradle
 
